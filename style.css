@@ -35,7 +35,7 @@
     justify-content: flex-end;
     margin: 20px 0;
 }
- form .display input{
+ form .display input{ // for dispaly the result in good waay
     text-align: right;
     flex: 1;
     font-size: 45px;
